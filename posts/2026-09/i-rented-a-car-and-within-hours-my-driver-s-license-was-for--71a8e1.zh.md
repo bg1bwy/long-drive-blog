@@ -3,7 +3,7 @@ title: "驾照数据泄露警示：为何你的重要文件需要永久存储？
 excerpt: "从网约车司机信息遭实时倒卖事件看数据安全，长期备份已成刚需。"
 lang: zh
 date: 2026-09-03
-canonical_url: https://drive.longhash.net/blog/i-rented-a-car-and-within-hours-my-driver-s-license-was-for--71a8e1
+canonical_url: https://longdrive.cc/blog/i-rented-a-car-and-within-hours-my-driver-s-license-was-for--71a8e1
 ---
 
 近日外媒报道，FBI正在调查一起真实发生的数据泄露事件。有人租借车辆后，其驾照信息在数小时内便出现在暗网售卖名单中。传统云存储的脆弱性再次提醒我们，个人与企业数据随时可能因平台策略变更或安全漏洞而面临永久丢失的风险。
@@ -12,7 +12,7 @@ canonical_url: https://drive.longhash.net/blog/i-rented-a-car-and-within-hours-m
 
 针对长期归档需求，Long Drive为新用户提供10MB终身免费空间，且单文件100KB以下永久免费。无论是企业档案、重要文件还是照片视频，它都能提供稳定可靠的底层支持。界面已全面支持日/英/中切换，操作直观。
 
-给重要数据一个真正的永久归宿，访问 drive.longhash.net 开始体验。
+给重要数据一个真正的永久归宿，访问 longdrive.cc 开始体验。
 
 ---
-*Cross-posted from [Long Drive Blog](https://drive.longhash.net/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*
+*Cross-posted from [Long Drive Blog](https://longdrive.cc/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*

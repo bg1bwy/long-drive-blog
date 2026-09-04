@@ -3,7 +3,7 @@ title: "企业数据合规新趋势：为何「永久保存」成为IT基建刚�
 excerpt: "Anthropic推零数据留存方案，企业如何低成本实现档案永久保存？"
 lang: zh
 date: 2026-09-02
-canonical_url: https://drive.longhash.net/blog/anthropic-enterprise-frontier-safeguards-1be61b
+canonical_url: https://longdrive.cc/blog/anthropic-enterprise-frontier-safeguards-1be61b
 ---
 
 Anthropic近期推出面向企业的“Enterprise Frontier Safeguards”功能，将活动日志直接存入客户自有云端并屏蔽外部人工审查。这一零数据留存理念正推动企业重新审视核心数据的归属与生命周期管理。
@@ -12,7 +12,7 @@ Anthropic近期推出面向企业的“Enterprise Frontier Safeguards”功能�
 
 在此背景下，基于Arweave区块链的Long Drive提供了可验证的长期保存路径。用户通过一次性预存即可实现“上传即永久保存”，有效规避续费断档风险。平台支持客户端AES-256-GCM加密，密码即私钥，确保敏感档案仅由持有者掌控。服务提供日/英/中界面，并针对新用户开放10MB终身免费额度及单文件100KB以下永久免费策略，便于团队低成本启动数据归档。
 
-探索更可靠的数据长期保存方案，请访问 drive.longhash.net。
+探索更可靠的数据长期保存方案，请访问 longdrive.cc。
 
 ---
-*Cross-posted from [Long Drive Blog](https://drive.longhash.net/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*
+*Cross-posted from [Long Drive Blog](https://longdrive.cc/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*

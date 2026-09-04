@@ -3,7 +3,7 @@ title: "Permanent Storage for Digital Archives"
 excerpt: "Why permanent storage matters."
 lang: en
 date: 2026-08-31
-canonical_url: https://drive.longhash.net/blog/enormous-12tb-steam-leak-includes-abandoned-half-life-2-epis-55a3b7
+canonical_url: https://longdrive.cc/blog/enormous-12tb-steam-leak-includes-abandoned-half-life-2-epis-55a3b7
 ---
 
 Over 12 terabytes of historical game builds, including abandoned Half-Life 2: Episode 3 assets, recently surfaced after a massive Steam archive was leaked. While this trove offers a fascinating glimpse into gaming history, it also highlights a critical vulnerability in how digital content is currently managed. Centralized servers and temporary hosting environments are inherently fragile; they can be compromised, shut down, or corrupted without warning.
@@ -14,7 +14,7 @@ Long Drive addresses this need by leveraging the Arweave blockchain to create a 
 
 Designed for practical longevity, Long Drive supports Japanese, English, and Chinese interfaces to accommodate global users. New accounts start with 10 MB of lifetime free storage, and any file under 100 KB is stored forever at no cost. The service is particularly well-suited for corporate archives, sensitive documentation, and the long-term preservation of personal photos and videos.
 
-Secure your digital legacy with permanent storage at drive.longhash.net.
+Secure your digital legacy with permanent storage at longdrive.cc.
 
 ---
-*Cross-posted from [Long Drive Blog](https://drive.longhash.net/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*
+*Cross-posted from [Long Drive Blog](https://longdrive.cc/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*

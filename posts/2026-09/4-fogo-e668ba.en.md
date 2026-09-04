@@ -3,7 +3,7 @@ title: "Why Permanent Storage Matters Now"
 excerpt: "Why you need permanent storage today."
 lang: en
 date: 2026-09-02
-canonical_url: https://drive.longhash.net/blog/4-fogo-e668ba
+canonical_url: https://longdrive.cc/blog/4-fogo-e668ba
 ---
 
 Recent reports confirm that the Fogo Foundation suffered a breach resulting in the loss of 400 million FOGO tokens, prompting a temporary suspension of its mainnet. While blockchain ecosystems continue to evolve, this incident underscores a fundamental challenge: digital assets and data remain vulnerable when tied to centralized or single-point infrastructure. As platforms face security risks, regulatory shifts, or operational halts, the need for resilient archival solutions has never been clearer.
@@ -16,7 +16,7 @@ Built on the Arweave blockchain, Long Drive offers a practical approach to long-
 
 Long Drive supports Japanese, English, and Chinese interfaces, making it accessible for global teams and individual creators alike. New accounts receive 10 MB of lifetime free storage, while any file under 100 KB is stored permanently at no cost. It is designed specifically for corporate records, critical contracts, and personal media that must survive beyond typical service lifespans.
 
-When data longevity and access control matter, permanent storage provides the stability modern workflows require. Explore secure archival solutions at drive.longhash.net.
+When data longevity and access control matter, permanent storage provides the stability modern workflows require. Explore secure archival solutions at longdrive.cc.
 
 ---
-*Cross-posted from [Long Drive Blog](https://drive.longhash.net/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*
+*Cross-posted from [Long Drive Blog](https://longdrive.cc/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*
