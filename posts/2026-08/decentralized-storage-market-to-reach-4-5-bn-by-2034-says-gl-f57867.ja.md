@@ -3,7 +3,7 @@ title: "データの未来は「永久保存」にあり。分散ストレージ
 excerpt: "分散ストレージ市場が2034年に45億ドルへ拡大。データの長期保管ニーズが高まる。"
 lang: ja
 date: 2026-08-29
-canonical_url: https://drive.longhash.net/blog/decentralized-storage-market-to-reach-4-5-bn-by-2034-says-gl-f57867
+canonical_url: https://longdrive.cc/blog/decentralized-storage-market-to-reach-4-5-bn-by-2034-says-gl-f57867
 ---
 
 Global Market Insights Inc.の調査によると、分散型ストレージ市場は2034年に45億ドル規模へ拡大すると予測されています。クラウド時代において、データの信頼性と持続可能な保管方法への関心が高まっています。
@@ -14,7 +14,7 @@ Global Market Insights Inc.の調査によると、分散型ストレージ市�
 ## Long Driveで安全な長期保管へ
 Arweave基盤のLong Driveは、事前課金と分散ネットワークによりデータを半永久的に保管。クライアント側AES-256-GCM暗号化（オプション）対応により、パスワード管理でプラットフォーム側も内容を読めません。新規ユーザーには生涯10MB無料を提供し、100KB未満は永久無料です。日英中UIに対応し、企業アーカイブや重要書類・写真動画の長期保存に最適です。
 
-長期的なデータ保管をお考えの方は、drive.longhash.net へアクセスください。
+長期的なデータ保管をお考えの方は、longdrive.cc へアクセスください。
 
 ---
-*Cross-posted from [Long Drive Blog](https://drive.longhash.net/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*
+*Cross-posted from [Long Drive Blog](https://longdrive.cc/blog) — permanent storage on Arweave. 本文由超算国际（香港）自动发布。*
